@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "Integrating role-based authorization for DropBox assets",
+    "messaging_url": "staging.clearblade.com:1883",
+    "name": "pd-dropbox-integration",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "aea2b8a90b90c1deb3a2a396d3bc01",
+    "system_secret": "AEA2B8A90BEEDDE8C5BCF6A4FC75"
+}
