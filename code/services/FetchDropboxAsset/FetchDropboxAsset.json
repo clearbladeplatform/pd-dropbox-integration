@@ -1,0 +1,12 @@
+{
+    "current_version": 32,
+    "dependencies": "clearblade,http",
+    "logging_enabled": "false",
+    "name": "FetchDropboxAsset",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "FetchDropboxAsset.js"
+}
