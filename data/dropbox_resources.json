@@ -1,0 +1,26 @@
+{
+    "app_id": "aea2b8a90b90c1deb3a2a396d3bc01",
+    "collection_id": "d6a2b8a90bf6eba9b28dd6a0a68001",
+    "items": [
+        {
+            "filename": "dropbox.txt",
+            "url": "https://www.dropbox.com/s/xzhzi6p5hyvj47m/dropbox.txt?dl=1"
+        }
+    ],
+    "name": "dropbox_resources",
+    "permissions": {
+        "Authenticated": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "filename",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "url",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
