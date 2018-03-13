@@ -1,5 +1,5 @@
 
-# ipm package: coap-toolkit
+# ipm package: table-test
 
 ## Overview
 
@@ -62,7 +62,7 @@ Parses a CoAP message
 
 | Param | Type | Description |
 | --- | --- | --- |
-| CoAPMessage | <code>Array.&lt;number&gt;</code> | CoAP message, array of one byte integers |
+| CoAPMessage | <code>Array.<number></code> | CoAP message, array of one byte integers |
 
 **Example**  
 ```js
